@@ -36,22 +36,8 @@ The sentiment analysis provides a snapshot of the community's emotional landscap
 
 The hate speech analysis sheds light on the prevalence of toxic behavior within these digital spaces. As we continue refining the algorithms, the goal is to create safer and more inclusive online environments.
 
-## How to Use
-
-1. Clone this repository.
-2. Open the Power BI file using Power BI Desktop.
-3. Navigate through the slides using the provided buttons.
-4. Customize your analysis by selecting different videos, hour gaps, or platforms.
 
 ## Future Work
 
 - Integration of audio transcription using OpenAI's Whisper.
 - Continuous refinement of sentiment and hate speech analysis algorithms.
-
-## Acknowledgments
-
-Special thanks to the Twitch and YouTube communities for their valuable contributions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
