@@ -1,24 +1,24 @@
 # Live Chat Sentiment Analysis on Twitch and YouTube
 
-## Overview
+## Overview 🔎
 
-This project dives into the dynamic world of live chat interactions on Twitch and YouTube, with a focus on Spanish-speaking channels. The Extract, Transform, Load (ETL) process meticulously collects and analyzes data from the top 10 streams (5 on YouTube and 5 on Twitch) dated November 5, 2023. The primary objectives are to gauge sentiment, identify hate speech, and derive insights into user engagement during these live streams.
+This project dives into the dynamic world of live chat interactions on Twitch and YouTube, with a focus on Spanish-speaking channels. [The Extract, Transform, Load (ETL) process](https://github.com/Kohkitos/live-chat-etl-project) meticulously collects and analyzes data from the top 10 streams (5 on YouTube and 5 on Twitch) dated November 5, 2023. The primary objectives are to gauge sentiment, identify hate speech, and derive insights into user engagement during these live streams.
 
-## Storytelling
+## Storytelling 🐲
 
-### Unveiling User Dynamics
+### Unveiling User Dynamics 👥
 
 As the project unfolds, it paints a vivid picture of the user dynamics across platforms. The first slide sets the stage, revealing the total messages exchanged, the diversity of users, and the intensity of communication through messages per video. This initial glimpse hints at the vibrancy of these online communities.
 
-### Time Unveils Trends
+### Time Unveils Trends ⌛
 
 Moving forward, the second slide takes us on a journey through time, unraveling trends in message distribution. Selecting specific videos and hour gaps, users can explore peaks and valleys in communication. This feature serves as a window into the audience's collective response, with plans to integrate audio transcription in the future for a deeper understanding of pivotal moments.
 
-### Decoding Emotions
+### Decoding Emotions 🙊🙉🙈
 
 The concluding slide delves into the emotional landscape of the chat interactions. Positive, negative, and neutral sentiments are laid bare, alongside a crucial examination of hate speech. By selecting individual videos, users can scrutinize the messages themselves, providing context to the emotional undercurrents within the chat.
 
-## Conclusions
+## Conclusions ☝🤓
 
 ### Community Pulse
 
@@ -37,7 +37,7 @@ The sentiment analysis provides a snapshot of the community's emotional landscap
 The hate speech analysis sheds light on the prevalence of toxic behavior within these digital spaces. As we continue refining the algorithms, the goal is to create safer and more inclusive online environments.
 
 
-## Future Work
+## Future Work 🤖
 
-- Integration of audio transcription using OpenAI's Whisper.
+- Integration of audio transcription using [OpenAI's Whisper](https://openai.com/research/whisper).
 - Continuous refinement of sentiment and hate speech analysis algorithms.
